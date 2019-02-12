@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feifiej.tenoaksoftware.com/sitemap.xml
